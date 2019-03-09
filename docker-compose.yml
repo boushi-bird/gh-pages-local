@@ -4,6 +4,6 @@ services:
   app:
     build: .
     volumes:
-      - "./app:/src/app"
+      - "./docs:/src/app"
     ports:
       - "4000:4000"
