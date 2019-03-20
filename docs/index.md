@@ -1,6 +1,8 @@
 ---
 layout: default
 title: ページタイトル
+github:
+  is_project_page: true
 ---
 
 # テスト1
