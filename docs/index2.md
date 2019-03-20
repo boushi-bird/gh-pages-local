@@ -6,4 +6,4 @@ description: サンプル説明
 
 # サンプル
 
-{% include_relative inport.md %}
+{% include_relative import.md %}
