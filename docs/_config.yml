@@ -1,7 +1,7 @@
 theme: jekyll-theme-minimal
 lang: ja
 title: テストタイトル
-description: テスト説明
+# description: テスト説明
 github:
   is_project_page: false
 google_tag_manager: GTM-NFHN8MZ
