@@ -3,6 +3,12 @@ lang: ja
 title: グローバルタイトル
 description: グローバル説明
 #google_tag_manager: GTM-NFHN8MZ
-url: https://boushi-bird.github.io/gh-pages-local/
+url: https://boushi-bird.github.io
 plugins:
   - jekyll-sitemap
+defaults:
+  -
+    scope:
+      path: import.md
+    values:
+      sitemap: false
