@@ -2,4 +2,7 @@ theme: jekyll-theme-minimal
 lang: ja
 title: グローバルタイトル
 description: グローバル説明
-google_tag_manager: GTM-NFHN8MZ
+#google_tag_manager: GTM-NFHN8MZ
+url: https://boushi-bird.github.io/gh-pages-local/
+plugins:
+  - jekyll-sitemap
